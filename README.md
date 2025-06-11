@@ -39,7 +39,7 @@ Necesitarás tener Git instalado en tu sistema.
 1.  **Clona el repositorio:**
     ```bash
     git clone [https://github.com/SaidPR/ControlAgro---Web.git](https://github.com/SaidPR/ControlAgro---Web.git)
-    cd nombre-de-tu-repo
+    cd ControlAgro---Web
     ```
 2.  **Abre `index.html`:** Simplemente abre el archivo `index.html` en tu navegador web preferido para ver el sitio localmente.
 
