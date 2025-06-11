@@ -68,4 +68,4 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para má
 ## 📧 Contacto
 
 * [SaidPR](https://github.com/SaidPR)
-* **Correo Electrónico (Opcional):** ramoszaid5@gmail.com
+* **Correo Electrónico:** ramoszaid5@gmail.com
