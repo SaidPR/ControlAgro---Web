@@ -59,12 +59,6 @@ Si encuentras algún problema o tienes sugerencias para mejorar el sitio, ¡son 
 
 ---
 
-## 📝 Licencia
-
-Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
-
----
-
 ## 📧 Contacto
 
 * [SaidPR](https://github.com/SaidPR)
